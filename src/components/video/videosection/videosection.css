@@ -1,0 +1,70 @@
+.video-view {
+    margin-bottom: 70px;
+}
+.video-view h2 {
+    font-size: 40px;
+    font-weight: 700;
+    text-transform: capitalize;
+    margin-top: 20px;
+    line-height: 56px;
+    color: #fff;
+    
+}
+.video-view h6 {
+    color: #d4533c;
+    font-size: 15px;
+    text-transform: uppercase;
+    font-weight: 700;
+    
+}
+.video-view{
+    text-align: center;
+}
+
+
+.video-section {
+    background-image: url(../../../assets/video-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    padding: 100px 0px 250px 0px;
+    position: relative;
+    background-color: rgba(0, 0, 0, 0.1);
+    
+    
+}
+.video-youtube {
+    margin-top: -240px;
+}
+.video-messi {
+    position: relative;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.15);
+    border-radius: 10px;
+}
+.video-messi video {
+    border-radius: 10px;
+    width: 429px;
+}
+.video-messi{
+    text-align: center;
+}
+.video-messi a{
+    position: absolute;
+left: 50%;
+top: 50%;
+transform: translate(-26px, -26px);
+width: 52px;
+height: 52px;
+background-color: #fff;
+border-radius: 50%;
+display: inline-block;
+text-align: center;
+line-height: 52px;
+color: #f35525;
+outline: 15px solid rgba(254, 85, 37, 0.5);
+font-size: 18px;
+}
+.video-messi svg{
+    background-color: #914f4b;
+    border-radius: 50%;
+}
